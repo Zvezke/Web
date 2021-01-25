@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+
+:root {
+  --bodyBackground: #e5e5e5;
+  --greenDark: #23424a;
+  --greenLight: #38cfd9;
+  --greenDarkOpacity: rgba(35, 66, 74, 0.8);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* min-height: 100vh; */
+  background-color: var(--bodyBackground);
+  font-family: roboto, sans-serif;
+}
+
+#intro {
+  background-color: var(--greenDark);
+}
+
+.container {
+  /* min-height: 100vh; */
+  /* position: relative; */
+  width: 80%;
+  max-width: 50rem;
+  padding: 5em 5%;
+  margin: 0 auto;
+}
+
+.row,
+.row2 {
+  /* width: 100%; */
+  display: flex;
+  padding: 2em 3em 0 3em;
+  /* gap: 2em; */
+}
+
+.col + .col {
+  margin-left: 2rem;
+}
+
+.col * {
+  color: var(--greenDark);
+  text-align: center;
+}
+
+.row2 * {
+  color: var(--bodyBackground);
+}
+
+.col h2 {
+  padding: 1em 0 0.5em 0;
+}
+
+/* .con2--flex { */
+/* display: flex; */
+/* } */
+
+.hero {
+  /* position: absolute; */
+  width: 70%;
+}
+
+h1 {
+  padding-bottom: 0.75em;
+  color: var(--bodyBackground);
+  line-height: 1.3em;
+}
+
+/* h2 {
+  background-color: var(--bodyBackground);
+  justify-content: space-between;
+} */
+
+.row2 > {
+  background-color: var(--greenDarkOpacity);
+  justify-content: space-between;
+}
+
+p {
+  padding-bottom: 3em;
+  line-height: 1.5em;
+  color: var(--bodyBackground);
+}
+
+a {
+  text-decoration: none;
+  background-color: var(--greenLight);
+  color: var(--greenDark);
+  border-radius: 100rem;
+  padding: 0.75em 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.row2 {
+  background-color: var(--greenDarkOpacity);
+}
