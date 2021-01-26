@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexbox Challenge</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="main">
+      <div id="intro">
+        <div class="container">
+          <div class="hero">
+            <h1>Responsive layouts don't have to be a struggle</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+              placerat nunc vel sem lacinia, eu euismod leo ullamcorper. Aliquam
+              pretium sollicitudin massa nec cursus.
+            </p>
+            <a href="#">I want to learn</a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <!-- <div id="test"> -->
+        <div class="col">
+          <h2>Cheap</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+            placerat nunc vel sem lacinia, eu euismod leo ullamcorper. Aliquam
+            pretium sollicitudin massa nec cursus.
+          </p>
+        </div>
+        <div class="col">
+          <h2>Quick</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+            placerat nunc vel sem lacinia, eu euismod leo ullamcorper. Aliquam
+            pretium sollicitudin massa nec cursus.
+          </p>
+        </div>
+        <div class="col">
+          <h2>Quality</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+            placerat nunc vel sem lacinia, eu euismod leo ullamcorper. Aliquam
+            pretium sollicitudin massa nec cursus.
+          </p>
+        </div>
+      </div>
+      <div class="row2">
+        <div class="col">
+          <h2>Cheap</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+            placerat nunc vel sem lacinia, eu euismod leo ullamcorper. Aliquam
+            pretium sollicitudin massa nec cursus.
+          </p>
+        </div>
+        <div class="col">
+          <h2>Quick</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
+            placerat nunc vel sem lacinia, eu euismod leo ullamcorper. Aliquam
+            pretium sollicitudin massa nec cursus.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
