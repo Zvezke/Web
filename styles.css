@@ -23,30 +23,30 @@ body {
 }
 
 header {
-  background-color: var(--header);
-  top: 0;
   position: sticky;
+  top: 0;
+  background-color: var(--header);
 }
 
 .nav--list {
   display: flex;
+  width: 100%;
   padding: 1em 3em;
   justify-content: flex-start;
   align-items: baseline;
-  width: 100%;
 }
 
 .nav--items {
-  color: white;
   padding: 0 1em;
   list-style: none;
+  color: white;
 }
 
 .nav--btn {
-  background-color: var(--greenDark);
-  padding: 0.5em 1em;
   margin-left: 1em;
+  padding: 0.5em 1em;
   border-radius: 100rem;
+  background-color: var(--greenDark);
   /* align-self: flex-end; */
 }
 
@@ -130,10 +130,10 @@ img {
 
 .sec2--right {
   width: 32%;
-  text-align: center;
-  background-color: var(--greenDark);
-  color: white;
   padding: 2em;
+  text-align: center;
+  color: white;
+  background-color: var(--greenDark);
 }
 
 .sec2--right h2 {
