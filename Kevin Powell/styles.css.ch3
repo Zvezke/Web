@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+
+:root {
+  --bodyBackground: #e5e5e5;
+  --greenDark: #23424a;
+  --greenLight: #38cfd9;
+  --greenDarkOpacity: rgba(35, 66, 74, 0.8);
+  --header: #136c72;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: var(--bodyBackground);
+}
+
+body {
+  font-family: roboto, sans-serif;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  background-color: var(--header);
+}
+
+.nav--list {
+  display: flex;
+  width: 100%;
+  padding: 1em 3em;
+  justify-content: flex-end;
+  align-items: baseline;
+  /* margin-left: auto; */
+}
+
+.nav--list a {
+  background-color: var(--header);
+}
+
+.nav--list .signUp {
+  background-color: var(--greenLight);
+  color: var(--greenDark);
+  padding: 0.5em 1em;
+  margin: 0 1em;
+  /* margin-left: auto; */
+}
+
+.nav--items {
+  padding: 0 1em;
+  list-style: none;
+  color: white;
+}
+
+.nav--btn {
+  margin-left: 1em;
+  padding: 0.5em 1em;
+  border-radius: 100rem;
+  background-color: var(--greenDark);
+  /* align-self: flex-end; */
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0 0 1em 0;
+  letter-spacing: 0.1em;
+  font-weight: 900;
+  line-height: 1.2em;
+}
+
+p {
+  margin: 0 0 1.5em 0;
+  letter-spacing: 0.05em;
+  line-height: 1.5em;
+}
+
+.hero p {
+  margin: 0 0 3.5em 0;
+  letter-spacing: 0.05em;
+  line-height: 1.5em;
+}
+
+a {
+  padding: 0.75em 1em;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--greenDark);
+  border-radius: 100rem;
+  background-color: var(--greenLight);
+  font-weight: bold;
+}
+
+.test {
+  background-color: var(--greenDark);
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 5em 0;
+  /* border: solid 2px red; */
+}
+
+.hero {
+  max-width: 40rem;
+  margin-right: 3em;
+  color: white;
+}
+
+/* .hero__img { */
+/* padding: 5em 0; */
+/* width: 22%; */
+/* top: 0; */
+/* right: 0; */
+/* border: solid 2px red; */
+/* } */
+
+img {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+
+.sec2--left {
+  width: 62%;
+  /* max-width: 40rem; */
+  /* padding-right: 3em; */
+}
+
+.sec2--left h2 {
+  margin: 1em 0;
+  color: var(--greenDark);
+}
+
+.sec2--right {
+  width: 32%;
+  padding: 2em;
+  text-align: center;
+  color: white;
+  background-color: var(--greenDark);
+}
+
+.sec2--right h2 {
+  margin-bottom: 1em;
+}
+
+.red {
+  border: solid 2px red;
+}

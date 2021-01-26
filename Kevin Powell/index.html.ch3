@@ -1,52 +1,80 @@
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor -->
+<!-- incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. -->
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Day 01</title>
-
-    <link rel="stylesheet" href="style.css" />
+    <title>Flex CH2</title>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="precontainer">
-      <div class="container">
-        <div class="intro-content">
-          <h1>Lorem ipsum dolor sit.</h1>
+    <header class="header">
+      <nav class="nav">
+        <ul class="nav--list">
+          <a class="nav--items" href="#">home</a>
+          <a class="nav--items" href="#">about</a>
+          <a class="nav--items" href="#">contact</a>
+          <a class="nav--items" href="#">sign in</a>
+          <a class="nav--items signUp" href="#">sign up</a>
+        </ul>
+      </nav>
+    </header>
+    <section>
+      <div class="test">
+        <div class="container row">
+          <div class="hero">
+            <h1>Responsive layouts don't have to be a struggle</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+              enim ad minim veniam.
+            </p>
+            <a href="#">i want to learn</a>
+          </div>
+          <div class="img">
+            <img class="hero__img" src="//unsplash.it/300" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container row">
+        <div class="sec2--left">
+          <h2>Quality designs made custom, on demand, just for you</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Exercitationem aspernatur distinctio laudantium dolores. Nulla
-            quibusdam reprehenderit eum sit minus aliquid!
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam.
+          </p>
+        </div>
+        <div class="sec2--right">
+          <h2>Cheap</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam.
+          </p>
+          <h2>Quick</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam.
+          </p>
+          <h2>Quality</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam.
           </p>
         </div>
       </div>
-    </div>
-
-    <div class="container2">
-        <h2>more content D:</h2>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis,
-          mollitia adipisci magnam voluptatibus repellendus fuga ut repellat
-          exercitationem eaque amet, omnis aliquam fugiat laudantium id dicta at?
-          Consectetur iure porro illum laudantium excepturi a laborum!
-        </p>
-        <p>
-          Sit magni soluta porro fugit placeat eius itaque, accusamus quisquam
-          voluptates reiciendis pariatur, vitae molestiae. Minima, quos
-          reprehenderit autem animi, nisi necessitatibus eligendi quis modi, facilis
-          ipsam nihil odit quaerat! Nisi doloribus harum culpa ipsam!
-        </p>
-        <p>
-          Sint corporis animi repudiandae. Aliquid illum, tenetur magnam provident
-          molestiae rem doloremque aspernatur quia reiciendis est facilis enim
-          praesentium officia sequi qui debitis exercitationem quaerat hic quos
-          recusandae. Architecto repudiandae aperiam tempora iste saepe error.
-        </p>
-        <p>
-          Provident aut suscipit aspernatur doloribus illum assumenda cupiditate
-          perferendis dolores! Obcaecati omnis magnam ipsam voluptas ipsa eos
-          explicabo quisquam architecto similique, sunt repellendus animi a
-          doloribus ab deserunt. Dicta neque nostrum modi, illum debitis dolorem.
-        </p>
-      </body>
-    </div>
+    </section>
+  </body>
 </html>
