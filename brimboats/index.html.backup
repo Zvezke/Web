@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brimboats</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <header>
+    <div class="container__nav flex--row">
+      <a class="box box--first" href="#">
+        <span
+          ><img src="images/brimboatsLogoNameWhite200.svg" alt="Logo"
+        /></span>
+      </a>
+      <nav class="box box--second">
+        <ul class="nav__list--primary">
+          <li class="nav__item">
+            <a href="#" class="nav__link">The Boat</a>
+          </li>
+          <li class="nav__item">
+            <a href="#" class="nav__link">The Men</a>
+          </li>
+          <li class="nav__item">
+            <a href="#" class="nav__link">The Islands</a>
+          </li>
+        </ul>
+      </nav>
+      <!-- <ul class="nav__list--secondary"> -->
+      <!-- <li class="nav__item"> -->
+      <a href="#" class="box box--contact"><span>Contact</span></a>
+      <!-- </li> -->
+      <!-- </ul> -->
+    </div>
+  </header>
+  <body>
+    <div class="main">
+      <div id="hero">
+        <video autoplay="true" loop="true" id="drone">
+          <source src="/images/output1080bit1500.mp4" type="video/mp4" />
+        </video>
+        <div class="overlay"></div>
+        <div class="flex--col" id="landingText">
+          <div id="logo">
+            <img src="/images/brimboatsLogo.svg" alt="Brimboats" />
+          </div>
+          <h1>BRIMBOATS</h1>
+          <p>
+            New boat manufacturer, established in 2020. Based in the Faroe
+            Islands. Fast, low maintenance boats, built to handle the rough,
+            North Atlantic Ocean.
+          </p>
+          <div class="flex--colSB">
+            <a href="#">Read more</a>
+            <a href="#">Contact</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- 
+<header>
+  <nav class="nav">
+    <a href="#">
+      <div class="nav--logo red">
+        <img src="/images/brimboatsBlue500.png" alt="Logo" />
+      </div>
+    </a>
+    <ul class="nav--ul">
+      <li class="nav--li"><a href="#">The Boat</a></li>
+      <li class="nav--li"><a href="#">The Men</a></li>
+      <li class="nav--li"><a href="#">The Islands</a></li>
+    </ul>
+    <a class="nav--contact" href="#">Contact</a>
+  </nav>
+</header> -->

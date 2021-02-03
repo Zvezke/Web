@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="99.39mm" height="13.233mm" version="1.1" viewBox="0 0 99.39 13.233" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-21.071 -88.446)">
+  <text id="text833" font-family="Poppins" font-size="5.2917px" font-weight="bold" letter-spacing="0px" style="line-height:1.25;shape-inside:url(#rect835);white-space:pre" xml:space="preserve"/>
+  <g id="text839" fill="none" stroke="#ff6a3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0583" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre" aria-label="BRIMBOATS">
+   <path id="path911" d="m28.154 97.408c0 0.84666-0.5588 1.2869-1.524 1.2869h-2.1336v-2.6247h2.0997c0.9652 0 1.5579 0.49107 1.5579 1.3377zm-0.28787-4.6905c0 0.8128-0.52493 1.2361-1.4732 1.2361h-1.8965v-2.4892h1.8965c0.94826 0 1.4732 0.44027 1.4732 1.2531zm3.2173 5.08c0-1.3547-0.89746-2.5739-2.286-2.8617 1.1515-0.33867 2.0151-1.27 2.0151-2.7093 0-1.8796-1.4393-3.0819-3.8608-3.0819h-5.3509v11.887h5.5372c2.5061 0 3.9455-1.27 3.9455-3.2343z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path913" d="m39.042 93.005c0 0.93133-0.508 1.4901-1.5917 1.4901h-1.7949v-2.9464h1.7949c1.0837 0 1.5917 0.57573 1.5917 1.4563zm-1.4224-3.8608h-4.8599v11.887h2.8956v-4.4873h0.69426l2.4723 4.4873h3.2681l-2.7432-4.7075c1.8288-0.54187 2.6416-1.9473 2.6416-3.4375 0-2.0659-1.4563-3.7423-4.3688-3.7423z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path915" d="m43.8 89.144v11.887h2.8956v-11.887z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path917" d="m48.795 89.144v11.887h2.8956v-7.1459l2.6755 7.1459h2.3368l2.6585-7.1289v7.1289h2.8956v-11.887h-3.4036l-3.302 8.2296-3.3359-8.2296z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path919" d="m70.893 97.408c0 0.84666-0.5588 1.2869-1.524 1.2869h-2.1336v-2.6247h2.0997c0.9652 0 1.5579 0.49107 1.5579 1.3377zm-0.28787-4.6905c0 0.8128-0.52493 1.2361-1.4732 1.2361h-1.8965v-2.4892h1.8965c0.94826 0 1.4732 0.44027 1.4732 1.2531zm3.2173 5.08c0-1.3547-0.89746-2.5739-2.286-2.8617 1.1515-0.33867 2.0151-1.27 2.0151-2.7093 0-1.8796-1.4393-3.0819-3.8608-3.0819h-5.3509v11.887h5.5372c2.5061 0 3.9455-1.27 3.9455-3.2343z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path921" d="m81.121 101.15c3.3697 0 6.0791-2.5231 6.0791-6.096 0-3.5729-2.6924-6.0791-6.0791-6.0791-3.3697 0-6.1129 2.5061-6.1129 6.0791 0 3.5729 2.7432 6.096 6.1129 6.096zm0-2.6416c-1.9304 0-3.1496-1.3716-3.1496-3.4544 0-2.1167 1.2192-3.4544 3.1496-3.4544 1.8965 0 3.1327 1.3377 3.1327 3.4544 0 2.0828-1.2361 3.4544-3.1327 3.4544z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path923" d="m96.92 101.03h3.0649l-4.3011-11.887h-3.3528l-4.3011 11.887h3.0311l0.7112-2.0997h4.4365zm-1.4563-4.3349h-2.9295l1.4563-4.3519z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path925" d="m100.65 89.144v2.3199h3.1496v9.5673h2.8956v-9.5673h3.1496v-2.3199z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+   <path id="path927" d="m115.6 101.15c2.7771 0 4.3349-1.6595 4.3349-3.6576 0-3.9793-5.8758-3.048-5.8758-5.1139 0-0.74506 0.52493-1.1007 1.2192-1.0837 0.77893 0.01693 1.3208 0.47413 1.3716 1.2361h3.1327c-0.11853-2.2691-1.8627-3.556-4.4535-3.556-2.4892 0-4.3349 1.2531-4.3349 3.5052-0.0339 4.2164 5.9097 3.0311 5.9097 5.2324 0 0.69427-0.54187 1.1176-1.3885 1.1176-0.8128 0-1.3885-0.44027-1.4732-1.3547h-3.0819c0.0847 2.4045 2.0828 3.6745 4.6397 3.6745z" style="paint-order:normal;shape-inside:url(#rect841);white-space:pre"/>
+  </g>
+ </g>
+</svg>
